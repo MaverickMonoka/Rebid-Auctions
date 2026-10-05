@@ -1,0 +1,10 @@
+{
+  "name": "RE:BID",
+  "short_name": "RE:BID",
+  "description": "Live auctions for quality second-chance goods",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ed0060",
+  "icons": []
+}
